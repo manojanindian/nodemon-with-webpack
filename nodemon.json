@@ -1,0 +1,4 @@
+{
+	"ignore": ["dist/*.*"],
+	"exec": "npm run webpack && node server.js"
+}

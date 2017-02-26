@@ -1,0 +1,17 @@
+{
+  "name": "nodemon-with-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "nodemon",
+	"webpack": "webpack"
+  },
+  "author": "manoj kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.14.1",
+    "nodemon": "^1.11.0"
+  }
+}
